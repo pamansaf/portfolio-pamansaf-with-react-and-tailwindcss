@@ -45,10 +45,16 @@ const Projects = () => {
           title="website restoran burger menggunakan HTML, TailwindCSS dan JavaScript"
           src={project5}
         />
-        <ProjectsCard
-          title="Hospital Landing Page with React.JS and TailwindCSS"
-          src={project6}
-        />
+
+        <a
+          href="https://hospital-landing-page-by-pamansaf.vercel.app/"
+          target="_blank"
+        >
+          <ProjectsCard
+            title="Hospital Landing Page with React.JS and TailwindCSS"
+            src={project6}
+          />
+        </a>
       </div>
     </section>
   );

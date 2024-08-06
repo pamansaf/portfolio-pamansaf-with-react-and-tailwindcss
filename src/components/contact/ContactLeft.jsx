@@ -29,7 +29,7 @@ const ContactLeft = () => {
         </p>
         <p className="text-base text-gray-400 flex items-center gap-2">
           <IoMdMail className="text-xl" />
-          Email: <span className="text-lightText">safwan.ssys@gmail.com</span>
+          Email: <span className="text-lightText">safwan.ssy@gmail.com</span>
         </p>
 
         <p className="text-base text-gray-400 flex gap-2">
