@@ -24,6 +24,7 @@ export const navLinksdata = [
     link: "projects",
     icon: <AiOutlineFundProjectionScreen />,
   },
+
   {
     _id: 1004,
     title: "Resume",
@@ -36,6 +37,12 @@ export const navLinksdata = [
   //   link: "testimonial",
   //   icon: <FaUsers />,
   // },
+  {
+    _id: 1007,
+    title: "Gallery",
+    link: "Gallery",
+    icon: <AiOutlineFundProjectionScreen />,
+  },
   {
     _id: 1006,
     title: "Contact",
