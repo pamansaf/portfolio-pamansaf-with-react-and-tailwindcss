@@ -8,6 +8,7 @@ import Navbar from "./components/navbar/Navbar";
 import Projects from "./components/projects/Projects";
 import Gallery from "./components/gallery/Gallery";
 import Resume from "./components/resume/Resume";
+import BackToTop from "./components/BackToTop";
 // import Testimonial from "./components/tesimonial/Testimonial";
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
         <Contact />
         <Footer />
         <FooterBottom />
+        <BackToTop />
       </div>
     </div>
   );
